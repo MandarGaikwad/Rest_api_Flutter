@@ -2,6 +2,11 @@
 
 Rest Api Integration in Flutter
 
+# Screens :
+<img src="screenshot/1.jpeg" width="350" height="700"/>
+<img src="screenshot/2.jpeg" width="350" height="700"/>
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
