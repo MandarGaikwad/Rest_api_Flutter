@@ -3,6 +3,8 @@
 Rest Api Integration in Flutter
 
 # Screens :
+<h2>App UI</h2>
+
 <p>
 <img src="screenshot/1.jpeg" width="350" height="700"/>
 <img src="screenshot/2.jpeg" width="350" height="700"/>
